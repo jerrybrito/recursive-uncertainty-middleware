@@ -1,0 +1,1 @@
+anti-suspension>=0.8.6
